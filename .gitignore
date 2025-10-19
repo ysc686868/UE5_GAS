@@ -1,0 +1,23 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
+Content
+.vscode
+.VS
+*.Vc.db
+*.opensdf
+. opendb
+*.sdf
+Aura_GAS.sln
+.sln
+.suo
+*.xcodeproj
+*.xcworkspace
+.idea/
+.vsconfig
+Aura_GAS.uproject
+Plugins/
+Config/
+
